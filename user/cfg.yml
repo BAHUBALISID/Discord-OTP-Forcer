@@ -10,20 +10,20 @@
 # THE AUTHORS AND CONTRIBUTORS OF THIS PROGRAM ARE NOT RESPONSIBLE FOR WHATEVER DAMAGES MAY ENSUE
 
 # Basic login info
-email: ""
+email: "+91 91249 85455"
 password: ""
 
 # Program mode configuration
 # Lets you skip the initial mode prompt stage by filling in your desired
 # programMode and codeMode beforehand.
-programMode: ""
-codeMode: ""
+programMode: "reset"
+codeMode: "normal"
 
 # Password Reset Info
 #
 # To get your token it will be in the url of the password reset page.
 # Follow the instructions in the README.md on how to obtain this token
-newPassword: ""
+newPassword: "sidharth9596"
 resetToken: ""
 
 # Disable 2FA info
